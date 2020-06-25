@@ -1,5 +1,8 @@
 _repo: Epidemic-Respiratory-Disease-The-pneumonias-and-other-infections-of-the-repiratory-tract-acco__62429
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62429-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Rivers, Thomas M. (Thomas Milton)
@@ -31,6 +34,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51936
     wikipedia: https://en.wikipedia.org/wiki/Francis_Gilman_Blake
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62429#Epidemic-Respiratory-Disease-The-pneumonias-and-other-infections-of-the-repiratory-tract-acco_
 gutenberg_issued: '2020-06-19'
 gutenberg_type: Text
 identifiers:
