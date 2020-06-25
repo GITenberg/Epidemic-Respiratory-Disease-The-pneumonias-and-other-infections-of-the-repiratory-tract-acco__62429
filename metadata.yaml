@@ -1,0 +1,51 @@
+_repo: Epidemic-Respiratory-Disease-The-pneumonias-and-other-infections-of-the-repiratory-tract-acco__62429
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Rivers, Thomas M. (Thomas Milton)
+    aliases:
+    - Rivers, T. M. (Thomas Milton)
+    - Rivers, Thomas Milton
+    birthdate: 1888
+    deathdate: 1962
+    gutenberg_agent_id: '51938'
+    url: http://www.gutenberg.org/2009/agents/51938
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Milton_Rivers
+  - agent_name: Small, James C. (James Craig)
+    birthdate: 1888
+    gutenberg_agent_id: '51937'
+    url: http://www.gutenberg.org/2009/agents/51937
+  - agent_name: Opie, Eugene L. (Eugene Lindsay)
+    aliases:
+    - Opie, Eugene Lindsay
+    - Opie, E. L. (Eugene Lindsay)
+    birthdate: 1873
+    deathdate: 1971
+    gutenberg_agent_id: '51935'
+    url: http://www.gutenberg.org/2009/agents/51935
+    wikipedia: https://en.wikipedia.org/wiki/Eugene_Lindsay_Opie
+  - agent_name: Blake, Francis G. (Francis Gilman)
+    birthdate: 1887
+    deathdate: 1952
+    gutenberg_agent_id: '51936'
+    url: http://www.gutenberg.org/2009/agents/51936
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Gilman_Blake
+description: ''
+gutenberg_issued: '2020-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62429'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Measles'
+- !lcc 'RC'
+- !lcsh 'Respiratory organs -- Diseases'
+- !lcsh 'Pneumonia'
+- !lcsh 'Influenza'
+- GITenberg
+title: "Epidemic Respiratory Disease\r\nThe pneumonias and other infections of the\
+  \ repiratory tract accompanying influenza and measles"
+url: http://www.gutenberg.org/ebooks/62429
